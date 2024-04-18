@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **C++, Java, Javascript, MEARN Stack, Embedded Systems, etc.**
+- 💬 Ask me about **Java, Javascript, MERN Stack, Embedded Systems, etc.**
 
 - 📫 How to reach me **abdulmajid020a@gmail.com**
 
-- ⚡ Fun fact **I am a Sci-Fi Evangelist, robotics and Embedded systems Enthusiastic; I love watching tech movies.**
+- ⚡ Fun fact **I am a Sci-Fi Evangelist, robotics and Embedded systems Enthusiast; I love watching tech movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
