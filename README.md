@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Amadu Abdul Majid</h1>
+.<h1 align="center">Hi 👋, I'm Amadu Abdul Majid</h1>
 <h3 align="center">A Fullstack Developer and an Aspiring Data Engineer.</h3>
 <img src="https://img.freepik.com/premium-photo/cybercrime-illustration-computer-hacker-using-laptop-city-scene-binary-code-hacking-generate-ai_905417-1881.jpg" align="center" alt="Coding" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majid-abdul73&label=Profile%20views&color=0e75b6&style=flat" alt="majid-abdul73" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Automation and Control Systems**
 
-- 💬 Ask me about **Java, Javascript, MERN Stack, Embedded Systems, etc.**
+- 💬 Ask me about **Java, Javascript, React, React Native IoT,etc.**
 
 - 📫 How to reach me **abdulmajid020a@gmail.com**
 
-- ⚡ Fun fact **I am a Sci-Fi Evangelist, robotics and Embedded systems Enthusiast; I love watching tech movies.**
+- ⚡ Fun fact **I am a Sci-Fi Evangelist, Full Stack Developer and an IoT Enthusiast; I love watching tech movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
