@@ -1,11 +1,11 @@
 .<h1 align="center">Hi 👋, I'm Amadu Abdul Majid</h1>
-<h3 align="center">A Fullstack Developer and an Aspiring Control Systems Engineer.</h3>
+<h3 align="center">A Fullstack Developer and an Aspiring Data Engineer.</h3>
 <img src="https://img.freepik.com/premium-photo/cybercrime-illustration-computer-hacker-using-laptop-city-scene-binary-code-hacking-generate-ai_905417-1881.jpg" align="center" alt="Coding" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majid-abdul73&label=Profile%20views&color=0e75b6&style=flat" alt="majid-abdul73" /> </p>
 
-- 🌱 I’m currently learning **Automation and Control Systems**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 💬 Ask me about **Java, Javascript, React, React Native IoT,etc.**
 
