@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about: **JavaScript, React, React Native, NestJS, NodeJS, IoT, Linux, etc.**
+- 💬 Ask me about: **TypeScript, React, React Native, NestJS, NodeJS, IoT, Linux, etc.**
 
 - 📫 How to reach me: **abdulmajid020a@gmail.com**
 
