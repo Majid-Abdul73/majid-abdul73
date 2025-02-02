@@ -2,7 +2,7 @@
 <h3 align="center">A Fullstack Developer and Aspiring Cloud Engineer</h3>
 
 <div align="center">
-  <img src="https://img.freepik.com/premium-photo/cybercrime-illustration-computer-hacker-using-laptop-city-scene-binary-code-hacking-generate-ai_905417-1881.jpg" alt="Coding" width="400">
+<!--   <img src="https://img.freepik.com/premium-photo/cybercrime-illustration-computer-hacker-using-laptop-city-scene-binary-code-hacking-generate-ai_905417-1881.jpg" alt="Coding" width="400"> -->
 </div>
 
 <p align="left"> 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about: **JavaScript, React, React Native,NestJS, NodeJS, IoT, Linux, etc.**
+- 💬 Ask me about: **JavaScript, React, React Native, NestJS, NodeJS, IoT, Linux, etc.**
 
 - 📫 How to reach me: **abdulmajid020a@gmail.com**
 
