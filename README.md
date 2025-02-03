@@ -2,11 +2,11 @@
 <h3 align="center">A Fullstack Developer and Aspiring Cloud Engineer</h3>
 
 <div align="center">
-<!--   <img src="https://img.freepik.com/premium-photo/cybercrime-illustration-computer-hacker-using-laptop-city-scene-binary-code-hacking-generate-ai_905417-1881.jpg" alt="Coding" width="400"> -->
+  <img src="https://img.freepik.com/premium-photo/cybercrime-illustration-computer-hacker-using-laptop-city-scene-binary-code-hacking-generate-ai_905417-1881.jpg" alt="Coding" width="400">
 </div>
 
 <p align="left"> 
-<!--   <img src="https://komarev.com/ghpvc/?username=majid-abdul73&label=Profile%20views&color=0e75b6&style=flat" alt="majid-abdul73" /> -->
+  <img src="https://komarev.com/ghpvc/?username=majid-abdul73&label=Profile%20views&color=0e75b6&style=flat" alt="majid-abdul73" />
 </p>
 
 - 🌱 I’m currently learning **AWS**
