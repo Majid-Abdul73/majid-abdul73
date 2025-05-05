@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=majid-abdul73&label=Profile%20views&color=0e75b6&style=flat" alt="majid-abdul73" />
 </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about: **TypeScript, React, Expo React Native, NodeJS, IoT, Linux, etc.**
 
@@ -81,6 +81,5 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=majid-abdul73&show_icons=true&locale=en&layout=compact" alt="majid-abdul73" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majid-abdul73&" alt="majid-abdul73" /></p>
