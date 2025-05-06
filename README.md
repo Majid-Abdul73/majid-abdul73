@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amadu Abdul Majid</h1>
-<h3 align="center">A Fullstack Engineer | DevOps | Robotics Engineer</h3>
+<h3 align="center">Fullstack Engineer | DevOps | Robotics Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majid-abdul73&label=Profile%20views&color=0e75b6&style=flat" alt="majid-abdul73" /> </p>
 
