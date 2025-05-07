@@ -43,8 +43,8 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Majid-Abdul73&theme=dark&hide_border=true&include_all_commits=false&count_private=false&card_width=100)
-![](https://nirzak-streak-stats.vercel.app/?user=Majid-Abdul73&theme=dark&hide_border=true&width=100)
+![](https://github-readme-stats.vercel.app/api?username=Majid-Abdul73&theme=dark&hide_border=true&include_all_commits=false&count_private=false&card_width=80)
+![](https://nirzak-streak-stats.vercel.app/?user=Majid-Abdul73&theme=dark&hide_border=true&width=80)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Majid-Abdul73&icon=0&color=12&width=200)](https://visitcount.itsvg.in)
