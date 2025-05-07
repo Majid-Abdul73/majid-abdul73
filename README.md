@@ -1,4 +1,4 @@
-## Hi 👋, I'm Majid Abdul..
+## Hi 👋, I'm Amadu Abdul Majid.<br> <br> <br>
 
 🌌 I am a Software Engineer, DevOps, and IoT Enthusiast. <br>
 🌱 I'm currently learning Kubernetes, machine learning, and ROS. <br>
