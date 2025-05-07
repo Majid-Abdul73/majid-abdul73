@@ -3,7 +3,6 @@
 🌌 I am a Software Engineer, DevOps, and IoT Enthusiast. <br>
 🌱 I'm currently learning Kubernetes, machine learning, and ROS. <br>
 💬 Ask me about TypeScript, React, Expo, NodeJS, PostgreSQL, Linux, etc. <br>
-📫 How to reach me: abdulmajid020a@gmail.com <br>
 ⚡ Fun fact: I am a Sci-Fi Evangelist, Full Stack Developer, and Robotics Enthusiast. I love watching tech movies. <br>
 
 ## 🌐 Socials
