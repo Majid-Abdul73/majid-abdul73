@@ -1,6 +1,8 @@
-# 💫 About Me
+# Hi 👋, I'm Majid Abdul..
+
+
 🌱 I'm currently learning Kubernetes, machine learning, and ROS.
-💬 Ask me about TypeScript, React, Expo React Native, NodeJS, IoT, Linux, etc.
+💬 Ask me about TypeScript, React, Expo, NodeJS, PostgreSQL, Linux, etc.
 📫 How to reach me: abdulmajid020a@gmail.com
 ⚡ Fun fact: I am a Sci-Fi Evangelist, Full Stack Developer, and Robotics Enthusiast. I love watching tech movies.
 
