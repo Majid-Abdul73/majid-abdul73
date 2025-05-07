@@ -51,7 +51,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Majid-Abdul73&theme=dark&hide_border=true&width=200)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Majid-Abdul73&icon=0&color=12&width=300)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Majid-Abdul73&icon=0&color=12&width=200)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ProjectElon)
