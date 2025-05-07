@@ -1,10 +1,10 @@
 # Hi 👋, I'm Majid Abdul..
 
 
-🌱 I'm currently learning Kubernetes, machine learning, and ROS.
-💬 Ask me about TypeScript, React, Expo, NodeJS, PostgreSQL, Linux, etc.
-📫 How to reach me: abdulmajid020a@gmail.com
-⚡ Fun fact: I am a Sci-Fi Evangelist, Full Stack Developer, and Robotics Enthusiast. I love watching tech movies.
+🌱 I'm currently learning Kubernetes, machine learning, and ROS. <br>
+💬 Ask me about TypeScript, React, Expo, NodeJS, PostgreSQL, Linux, etc. <br>
+📫 How to reach me: abdulmajid020a@gmail.com <br>
+⚡ Fun fact: I am a Sci-Fi Evangelist, Full Stack Developer, and Robotics Enthusiast. I love watching tech movies. <br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-majid-amadu-691134207/) 
