@@ -1,9 +1,8 @@
-## Hi 👋, I'm Amadu Abdul Majid.<br> <br> <br>
+## Hi 👋, I'm Amadu Abdul Majid.<br> <br>
 
 🌌 I am a Software Engineer, DevOps, and IoT Enthusiast. <br>
-🌱 I'm currently learning Kubernetes, machine learning, and ROS. <br>
-💬 Ask me about TypeScript, React, Expo, NodeJS, PostgreSQL, Linux, etc. <br>
-⚡ Fun fact: I am a Sci-Fi Evangelist, Full Stack Developer, and Robotics Enthusiast. I love watching tech movies. <br>
+💬 Ask me about TypeScript, React, Golang, NodeJS, PostgreSQL, Linux, DevOps, etc. <br>
+⚡ Fun fact: I am a Sci-Fi Evangelist, Full Stack Engineer, and IoT Enthusiast. I love watching tech movies. <br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-majid-amadu-691134207/) 
